@@ -1,0 +1,8 @@
+{
+  "python.defaultInterpreterPath": "C:\\Python313\\python.exe",
+  "python.analysis.extraPaths": [
+    "C:\\Users\\avuku\\AppData\\Roaming\\Python\\Python313\\site-packages"
+  ],
+  "python.analysis.typeCheckingMode": "off",
+  "python.languageServer": "Pylance"
+}
